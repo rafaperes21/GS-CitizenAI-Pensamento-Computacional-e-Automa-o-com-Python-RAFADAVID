@@ -11,6 +11,11 @@
 
 Turma: **1CCR**
 
+## Links
+
+- **Repositório:** https://github.com/rafaperes21/GS-CitizenAI-Pensamento-Computacional-e-Automa-o-com-Python-RAFADAVID
+- **Vídeo técnico (YouTube, não listado):** https://youtu.be/jN2hpUaYoE8
+
 ## Público e problema escolhidos
 
 **Público:** jovens no primeiro emprego (aprox. 16 a 24 anos).
@@ -168,4 +173,6 @@ Perguntas livres encontradas: **2 de 5 antes → 4 de 5 depois**.
 
 ## Vídeo técnico
 
-_Link do YouTube (não listado)_
+https://youtu.be/jN2hpUaYoE8 (não listado, 7:46)
+
+Explicação do código feita pela dupla, seguindo o roteiro obrigatório: JSON, classes e composição, busca por pontuação, execução, alteração ao vivo no JSON, histórico, indicadores e CSV, uma decisão técnica e uma limitação.
