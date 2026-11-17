@@ -1,0 +1,12 @@
+﻿sessao,data,origem,pergunta,id_orientacao,encontrou,ajudou,tentativas,tempo_segundos,facilidade
+20261117174455,2026-11-17 17:50:03,pergunta,trabalhei 18 ndias como fazer o calculo para receber o salario e decimo terceiro e ferias proporcionais estamos em novembro e trabnalhei desde fevereiro,,False,False,1,60.0,4
+20261117174455,2026-11-17 17:51:57,categoria,[Trabalho] Pedir o seguro-desemprego,5,True,True,1,73.3,4
+20261117180832,2026-11-17 18:13:18,pergunta,"Estou entrando em minha primeira vaga de emprego, como poderia fazer para receber ou criar a minha carteira de trabalho?",3,True,True,1,164.8,5
+20261117182702,2026-11-17 18:29:13,pergunta,como posso eliminar materias pendentes?,,False,False,1,18.8,4
+20261117182702,2026-11-17 18:30:27,categoria,[Educação] Terminar os estudos pelo Encceja,11,True,True,1,36.6,4
+20261117183603,2026-11-17 18:37:24,pergunta,Como posso encontrar vagas para empregos?,,False,False,2,25.0,2
+20261117183603,2026-11-17 18:37:45,categoria,[Trabalho] Procurar vagas de emprego pelo Sine,12,True,True,1,13.7,2
+20261117183946,2026-11-17 18:41:17,pergunta,Como me inscrever para o enem?,10,True,True,1,12.4,5
+20261117184133,2026-11-17 18:42:04,categoria,[Documentos] Tirar a Carteira de Identidade Nacional (CIN),2,True,True,1,18.5,5
+20261117184244,2026-11-17 18:43:12,categoria,[Cidadania] Criar a conta gov.br,9,True,False,1,22.3,4
+20261117184244,2026-11-17 18:43:26,categoria,[Cidadania] Fazer o alistamento militar,8,True,True,1,7.8,4

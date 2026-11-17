@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "Tirar o CPF pela primeira vez",
+    "palavras_chave": ["cpf", "cadastro de pessoa fisica", "tirar cpf", "inscricao no cpf"],
+    "resposta": "A inscrição no CPF é gratuita pela internet, no formulário da Receita Federal. Também pode ser feita em unidades da Receita ou em locais conveniados (Banco do Brasil, Caixa, Correios e cartórios), que cobram taxa de R$ 7,00.",
+    "documentos": ["Documento oficial de identificação com foto", "Certidão de nascimento ou casamento (se o documento com foto não tiver filiação e data de nascimento)"],
+    "onde": "Site da Receita Federal (gratuito) ou Banco do Brasil, Caixa, Correios e cartórios (com taxa)",
+    "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Tirar a Carteira de Identidade Nacional (CIN)",
+    "palavras_chave": ["rg", "identidade", "carteira de identidade", "cin"],
+    "resposta": "A nova Carteira de Identidade Nacional usa o CPF como número único. Ela é emitida pelo órgão de identificação do seu estado. A primeira via é gratuita; a segunda via pode ter taxa, que varia por estado.",
+    "documentos": ["Certidão de nascimento ou casamento", "CPF"],
+    "onde": "Órgão de identificação do seu estado (consulte o site do governo do seu estado)",
+    "fonte": "https://www.gov.br/governodigital/pt-br/identidade/cin",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 3,
+    "categoria": "Trabalho",
+    "titulo": "Ativar a Carteira de Trabalho Digital",
+    "palavras_chave": ["carteira de trabalho", "ctps", "carteira digital", "registro em carteira", "minha carteira de trabalho"],
+    "resposta": "A Carteira de Trabalho agora é digital e gratuita. Basta baixar o app Carteira de Trabalho Digital ou acessar o site gov.br e entrar com sua conta gov.br. Ela não serve como documento de identidade.",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "Aplicativo Carteira de Trabalho Digital ou site gov.br",
+    "fonte": "https://www.gov.br/pt-br/servicos/obter-a-carteira-de-trabalho",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 4,
+    "categoria": "Trabalho",
+    "titulo": "Ser Jovem Aprendiz",
+    "palavras_chave": ["jovem aprendiz", "aprendiz", "primeiro emprego", "aprendizagem"],
+    "resposta": "O programa de aprendizagem é para quem tem de 14 a 24 anos (pessoas com deficiência não têm limite de idade). Quem ainda não terminou a escola precisa estar matriculado e frequentando as aulas. O aprendiz trabalha na empresa e faz um curso em uma entidade formadora.",
+    "documentos": ["CPF", "Documento de identificação com foto", "Comprovante de matrícula escolar (se ainda estiver estudando)"],
+    "onde": "Empresas contratantes e entidades formadoras cadastradas no Ministério do Trabalho (como Senai e Senac)",
+    "fonte": "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/aprendizagem-profissional",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 5,
+    "categoria": "Trabalho",
+    "titulo": "Pedir o seguro-desemprego",
+    "palavras_chave": ["seguro desemprego", "seguro-desemprego", "fui demitido", "demissao"],
+    "resposta": "Quem trabalhava com carteira assinada e foi demitido sem justa causa pode pedir o seguro-desemprego de graça pelo app Carteira de Trabalho Digital ou pelo site gov.br, do 7º ao 120º dia após a demissão. É preciso o número do requerimento entregue pelo empregador.",
+    "documentos": ["CPF", "Conta gov.br", "Número do requerimento entregue pelo empregador"],
+    "onde": "App Carteira de Trabalho Digital, site gov.br ou telefone 158",
+    "fonte": "https://www.gov.br/pt-br/temas/perguntas-frequentes-seguro-desemprego",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 6,
+    "categoria": "Trabalho",
+    "titulo": "Consultar o saldo do FGTS",
+    "palavras_chave": ["fgts", "fundo de garantia", "saldo fgts", "extrato fgts"],
+    "resposta": "O saldo e o extrato do FGTS podem ser consultados de graça no aplicativo FGTS, da Caixa. No primeiro acesso, você faz um cadastro com CPF e cria uma senha.",
+    "documentos": ["CPF"],
+    "onde": "Aplicativo FGTS (Caixa), disponível para Android e iOS",
+    "fonte": "https://www.fgts.gov.br/Paginas/trabalhador/app-fgts.aspx",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 7,
+    "categoria": "Cidadania",
+    "titulo": "Tirar o título de eleitor pela primeira vez",
+    "palavras_chave": ["titulo de eleitor", "titulo", "votar", "eleitor"],
+    "resposta": "O primeiro título pode ser pedido pelo Autoatendimento Eleitoral (Título Net), no site do TSE, ou em um cartório eleitoral. Pela internet, é preciso enviar uma selfie segurando o documento. Homens no ano em que completam 19 anos também precisam do certificado de quitação militar.",
+    "documentos": ["Documento oficial com foto", "Comprovante de residência", "Certificado de quitação militar (homens no ano em que completam 19 anos)"],
+    "onde": "Site do TSE (Autoatendimento Eleitoral) ou cartório eleitoral",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/titulo-eleitoral",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 8,
+    "categoria": "Cidadania",
+    "titulo": "Fazer o alistamento militar",
+    "palavras_chave": ["alistamento", "alistamento militar", "servico militar", "reservista", "alistar"],
+    "resposta": "O alistamento é obrigatório para homens no ano em que completam 18 anos, de janeiro a junho, e é gratuito nesse prazo. Pode ser feito pela internet com o CPF. Fora do prazo, ainda é obrigatório, mas há multa. Quem não tem CPF deve ir a uma Junta de Serviço Militar.",
+    "documentos": ["CPF", "Documento de identificação com foto", "Comprovante de residência"],
+    "onde": "Site alistamento.eb.mil.br ou Junta de Serviço Militar da sua cidade",
+    "fonte": "https://alistamento.eb.mil.br/help/faq",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 9,
+    "categoria": "Cidadania",
+    "titulo": "Criar a conta gov.br",
+    "palavras_chave": ["gov br", "govbr", "conta gov", "login gov"],
+    "resposta": "A conta gov.br dá acesso a vários serviços públicos digitais. É criada no site ou no app gov.br, informando o CPF. A conta começa no nível bronze; validar pelo banco ou por biometria sobe para prata ou ouro e libera mais serviços.",
+    "documentos": ["CPF"],
+    "onde": "Site gov.br ou aplicativo gov.br",
+    "fonte": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2026/marco/imposto-de-renda-2026-saiba-como-ter-uma-conta-prata-ou-ouro-no-gov.br",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 10,
+    "categoria": "Educação",
+    "titulo": "Fazer a inscrição no Enem",
+    "palavras_chave": ["enem", "inscricao enem", "exame nacional do ensino medio", "vestibular"],
+    "resposta": "A inscrição no Enem é feita pela internet, na Página do Participante do Inep, no período do edital, com login gov.br. Desconfie de links de desconhecidos: o endereço oficial termina em inep.gov.br.",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "Página do Participante (enem.inep.gov.br/participante)",
+    "fonte": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/enem/saiba-como-se-inscrever-no-enem-2026",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 11,
+    "categoria": "Educação",
+    "titulo": "Terminar os estudos pelo Encceja",
+    "palavras_chave": ["encceja", "terminar os estudos", "supletivo", "certificado do ensino medio", "materias pendentes", "concluir os estudos"],
+    "resposta": "O Encceja dá o certificado do ensino fundamental (15 anos completos na data da prova) ou do ensino médio (18 anos completos). A inscrição é só pela internet, no período divulgado pelo Inep.",
+    "documentos": ["CPF"],
+    "onde": "Site do Encceja (enccejanacional.inep.gov.br)",
+    "fonte": "https://www.gov.br/inep/pt-br/acesso-a-informacao/perguntas-frequentes/exame-nacional-para-certificacao-de-competencias-de-jovens-e-adultos-encceja",
+    "verificado_em": "2026-11-15"
+  },
+  {
+    "id": 12,
+    "categoria": "Trabalho",
+    "titulo": "Procurar vagas de emprego pelo Sine",
+    "palavras_chave": ["vagas de emprego", "sine", "procurar emprego", "encontrar vaga", "procurar vaga"],
+    "resposta": "As vagas do Sine aparecem no app Carteira de Trabalho Digital, na aba de emprego, de acordo com seu perfil e endereço. Também dá para buscar pelo Portal Emprega Brasil ou em um posto do Sine. O serviço é gratuito.",
+    "documentos": ["CPF", "Conta gov.br"],
+    "onde": "App Carteira de Trabalho Digital, Portal Emprega Brasil ou posto do Sine",
+    "fonte": "https://www.gov.br/pt-br/servicos/buscar-emprego-no-sistema-nacional-de-emprego-sine",
+    "verificado_em": "2026-11-15"
+  }
+]
